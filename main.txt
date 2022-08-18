@@ -1,8 +1,3 @@
-Testing tests
-Second Line
-Third Line
-Forth Line
-Fifth line
 sixth line
 seventh line
 eighth line
