@@ -1,0 +1,10 @@
+name: DORA test release
+
+on:
+  push:
+    branches: ['main']
+  workflow_dispatch:
+
+jobs:
+  name: Fake Deployment
+  run: echo "1"
