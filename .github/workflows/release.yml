@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  steps:
-    - uses: actions/checkout@v2
-    - name: Fake Deployment
-      run: echo "1"
+  deploy:
+    name: Fake Deploy
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fake Deployment
+        run: echo "1"
