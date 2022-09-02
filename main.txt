@@ -12,10 +12,3 @@ tenth line
 20th line
 21st line
 22nd line
-
-sad
-sdad
-23rd line
-24th line
-25th line
-26th line
