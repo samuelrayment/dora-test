@@ -5,8 +5,6 @@ tenth line
 13 line
 14 line
 15 line
-16 line
-17th line
 18th line
 19th Line
 20th line
