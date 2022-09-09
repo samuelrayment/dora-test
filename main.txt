@@ -22,3 +22,4 @@ new line
 another line
 a
 b
+c
