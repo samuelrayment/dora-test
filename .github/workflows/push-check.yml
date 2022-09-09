@@ -1,4 +1,4 @@
-name: Debug
+name: Explorer Report Integration
 on: push
 
 jobs:
@@ -7,4 +7,4 @@ jobs:
     steps:
     - uses: samuelrayment/explorer-release@v1
       with:
-        github-token: ${secrets.AUTH_TOKEN}
+        github-token: secrets.AUTH_TOKEN
