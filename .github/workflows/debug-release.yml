@@ -1,5 +1,7 @@
 name: Debug
-on: release
+on:
+  - release
+  - deployment
 
 jobs:
   build:
