@@ -6,3 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: samuelrayment/explorer-release@v1
+      with:
+        github-token: ${secrets.AUTH_TOKEN}
