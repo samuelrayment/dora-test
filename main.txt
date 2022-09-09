@@ -22,3 +22,7 @@ new line
 another line
 a
 b
+c
+d
+e
+h
