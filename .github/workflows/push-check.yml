@@ -8,3 +8,5 @@ jobs:
     - uses: samuelrayment/explorer-release@v1
       with:
         github-token: ${{secrets.AUTH_TOKEN}}
+        explorer-endpoint: https://1665-86-27-165-232.eu.ngrok.io/
+        secret-key: ${{secrets.EXPLORER_SECRET}}
