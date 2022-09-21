@@ -1,6 +1,7 @@
 name: Explorer Report Integration
 on: push
-
+  branches: ['main']
+  
 jobs:
   build:
     runs-on: ubuntu-latest
